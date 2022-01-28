@@ -9,3 +9,18 @@
 - [ ] Vanilla
 
 ## Features
+Once the lib understand that the time is "shabbat", you can do one of the following:
+1. Redirect to another url
+2. Present another page 
+   1. Vanilla - pass HTML string
+   2. React - pass component
+   3. Vue - TBA
+3. Present a message ontop of white page
+4. If none of the above was passed -> present white page
+
+
+## TODO
+- [ ] Create React handler
+- [ ] Create vanilla handler
+- [ ] Fix date calculator (`is-it-shabbat.js`)
+- [ ] Test everything 😎
