@@ -1,0 +1,20 @@
+{
+  "name": "shabbat-guard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aviadhahami/shabbat-guard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aviadhahami/shabbat-guard/issues"
+  },
+  "homepage": "https://github.com/aviadhahami/shabbat-guard#readme"
+}
