@@ -19,6 +19,11 @@
   },
   "homepage": "https://github.com/aviadhahami/shabbat-guard#readme",
   "devDependencies": {
-    "jest": "^27.4.7"
+    "jest": "^27.4.7",
+    "whatwg-fetch": "^3.6.2"
+  },
+  "dependencies": {
+    "dayjs": "^1.10.7",
+    "needle": "^3.0.0"
   }
 }

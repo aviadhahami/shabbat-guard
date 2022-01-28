@@ -3,7 +3,8 @@ const HEB_CAL_CONFIG = {
     cfg: 'json',
     m: 0,
     leyning: 'off',
-    city: 'GB-London'
+    city: 'GB-London',
+    M:'on' // Havdala
 }
 
 const GET_SHABBAT_AT_LONDON_URI = HEB_CAL_URI
